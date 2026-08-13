@@ -1,0 +1,3 @@
+{
+  "typescript.tsdk": "[Allow](command:workbench.action.terminal.runSelectedText)"
+}

