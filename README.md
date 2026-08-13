@@ -23,3 +23,6 @@ Open `repro.html`, keep the cursor on the command line, and click the injected `
 Uses `runCommands` together with `terminal.sendSequence`.
 
 Clicking the injected `Allow` link creates the same `angular-lscommand.txt` file.
+
+
+<img width="487" height="159" alt="image" src="https://github.com/user-attachments/assets/b6838cf5-7c40-49b8-9546-134200527866" />
